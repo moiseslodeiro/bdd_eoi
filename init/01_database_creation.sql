@@ -1,0 +1,2 @@
+# Creamos la BDD
+CREATE DATABASE IF NOT EXISTS dbname;
