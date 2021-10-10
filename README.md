@@ -1,3 +1,3 @@
-# bdd_eoi2020
+# bdd_eoi
 
 En cada rama ejecuta el docker-compose correspondiente
